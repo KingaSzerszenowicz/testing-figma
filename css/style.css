@@ -1,0 +1,11 @@
+/* beginning of normalizing */
+   
+html {
+    box-sizing: border-box;
+}
+
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+/* ending of normalizing */
